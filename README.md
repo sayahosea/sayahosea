@@ -1,8 +1,9 @@
 ## Hallo, Hola, Hello
 
 - 🌱 Hey there, I'm Hosea.
-- 🔭 I'm currently working on YABBG.
-- 🌱 I’m currently learning C language.
+- 🔭 I'm currently fixing stupid bugs on YABBG.
+- 🤓 I'm currently developing BoluSMP MC Server.
+- 🙏 I’m currently worshipping C language.
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: there is none, life is suffering.
-- 🦊 My projects are located in [gitlab.com](https://gitlab.com/sayahosea)
+- ⚡ Fun fact: life is suffering.
+- 🦊 My projects are located in [gitlab.com](https://gitlab.com/sayahosea).
