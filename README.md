@@ -1,10 +1,8 @@
-## Hallo, Hola, Hello
+## Hallo, Привіт, Hello, Halo
 
 - 🌱 Hey there, I'm Hosea.
-- 🔭 I'm currently fixing stupid bugs on YABBG.
 - 🙏 I’m currently worshipping C language.
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: life is suffering.
 - 🦊 My projects are located in [GitLab](https://gitlab.com/sayahosea).
 
 <a href="https://gitlab.com/users/sayahosea/projects">
