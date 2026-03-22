@@ -1,7 +1,7 @@
 ## Hallo, Привіт, Hello, Halo
 
 - 🌱 Hey there, I'm Hosea.
-- 🙏 I’m currently worshipping C language.
+- 🙏 I’m currently worshipping Java language.
 - 😄 Pronouns: he/him.
 - 🦊 My projects are located in [GitLab](https://gitlab.com/sayahosea).
 
